@@ -6,3 +6,8 @@
 /*.rbxl
 # let selene re-generate roblox.toml so it updates automatically with selene
 roblox.toml
+
+
+# Roarn Ignore
+roarn_modules
+roarn_build

@@ -1,0 +1,6 @@
+{
+  "name": "roact",
+  "description": "Roact is a declarative Lua UI library similar to Facebook's React. It exposes a very similar API and implements nearly identical semantics.",
+  "version": "1.0.0",
+  "dependencies": {}
+}
